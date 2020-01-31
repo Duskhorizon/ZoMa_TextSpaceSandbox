@@ -1,0 +1,68 @@
+{
+"stars": [
+    {   
+     "class": "O",
+     "rarity": "1",
+     "temp": "52,000 K",
+     "population" : "80",
+     "descr": "Class O type stars are the most luminous and massive main sequence stars in the galaxy. They range in mass from 15 to 90 solar masses and burn very brightly indeed, with a surface temperature reaching 52,000 K so appear very blue. They are very short lived with lifetimes of 1 - 10 million years, ending in supernova."
+    },
+    {   
+        "class": "M",
+        "rarity": "46",
+        "temp": "5,000 K",
+     "population" : "80",
+        "descr": "Class M stars are red stars that form the bulk of the main sequence stars in the galaxy. their mass is low, as is their surface temperature."
+       },
+       {   
+        "class": "K",
+        "rarity": "100",
+        "temp": "6,000 K",
+     "population" : "80",
+        "descr": "Class K stars are yellow-orange main sequence stars with a long and generally stable life. They range in mass from 0.6 to 0.9 solar masses and have a surface temperature reaching 5,000 K."
+       }
+
+
+],
+"planets": [
+    {   
+     "type": "{blue}Icy World{/blue}",
+     "rarity": "19",
+     "descr": "Ice world composed mainly of water ice. Worlds like this will not have had much heating in the past, forming in the cooler regions of a star system, and have retained many volatiles as solids within their crust."
+    },
+    {   
+    "type": "Rocky Planet",
+    "rarity": "39",
+    "descr": "Rocky world with little or no surface metal content. Worlds like this have lost most of their volatiles due to past heating, and any metallic content will form a small central core."
+    },
+    {   
+    "type": "{red}Lava Planet{/red}",
+    "rarity": "45",
+    "descr": "Metal-rich worlds like this have a large metallic core, with plentiful metallic ores even at the surface. In places, especially around areas of past or current volcanism or liquid erosion, some higher metals can be found in their elemental form too. Mining is therefore very efficient, so these worlds are highly valued"
+    },
+    {   
+    "type": "{yellow}Gas Giant{/yellow}",
+    "rarity": "90",
+    "descr": "Class I or Jovian gas giants have primarily hydrogen and helium atmospheres. Colouration comes from clouds in the upper atmosphere of ammonia, water vapour, hydrogen sulphide, phosphine and sulphur. The temperature at the top of their upper cloud layers is typically less than 150 K."
+    },
+    {   
+    "type": "{green}Earth-Like World{/green}",
+    "rarity": "100",
+    "descr": "Outdoor world with a human-breathable atmosphere and indigenous life. The atmosphere is far from chemical equilibrium as a result."
+    }              
+],
+"stations": [
+    {   
+     "owner": "{green}Human{/green}",
+     "rarity": "100",
+     "descr": "A space station (or orbital station) is a spacecraft capable of supporting a crew, which is designed to remain in space (most commonly in low Planet orbit) for an extended period of time and for other spacecraft to dock."
+    }     
+],
+"stargates": [
+    {   
+     "owner": "{green}Human{/green}",
+     "rarity": "100",
+     "descr": "A Stargate is an Einstein–Rosen bridge portal device within the Stargate fictional universe that allows practical, rapid travel between two distant locations."
+    }     
+]
+}
